@@ -36,4 +36,3 @@ if __name__ == "__main__":
         print("\n".join(errors))
         raise SystemExit(1)
     print("context documentation checks passed")
-

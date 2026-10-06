@@ -71,4 +71,3 @@ Do not proceed to the next stage in the same turn after asking for confirmation.
 ## Completion checks
 
 Before declaring a stage complete, check only the changed files and directly related links. Confirm that responsibilities are clear, reading/writing rules are present, there is no duplicated authority, and existing work was preserved. Do not turn this into an unsolicited full-project audit.
-
